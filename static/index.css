@@ -1,0 +1,24 @@
+body{
+background-image:url('https://snagfilms-a.akamaihd.net/72/40/d146b87f4be080638fc8c9af46de/1s-0s-infinite.jpg');
+background-color:white;
+background-size:cover;
+font-family:"Helvetica Neue";
+}
+
+p{
+text-align:center;
+color:white;
+font-size:40px;
+}
+
+button{
+opacity:.8;
+font-size:40px;
+color:white;
+background-color:#5060A0;
+text-align:center;
+}
+
+button:hover{
+opacity:1;
+}
